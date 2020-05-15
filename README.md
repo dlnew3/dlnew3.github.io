@@ -1,6 +1,6 @@
 
-#Hi, I'm Dennis Newman
-I am a student at California State University - Fullerton, studying Computer Science.
+# Hi, I'm Dennis Newman
+*I am a student at California State University - Fullerton, studying Computer Science.*
 
 
 ## Sample of my Work:
