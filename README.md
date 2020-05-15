@@ -18,3 +18,7 @@ High School Diploma, Canyon High School, Anaheim CA *2010 - 2014*
 - [GLOOM: A First-Person Shooter in Unity](https://github.com/dlnew3/Gloom)
 - [C++ Dice Roll: A Dice Rolling UWP application](https://github.com/dlnew3/cplusplusdiceroll)
 
+## Contact:
+- Email: dlnew3@gmail.com
+- Github: [Dlnew3](https://github.com/dlnew3)
+- Linkedin: [Dennis Newman](https://www.linkedin.com/in/dennis-newman-592077182/)
